@@ -1,1 +1,0 @@
-# koinot-iq-test
